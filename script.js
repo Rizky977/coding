@@ -44,15 +44,11 @@ kamu selalu diberikan kesehatan,
 kebahagiaan,
 dan semua hal baik yang pantas kamu dapatkan.
 
-Terima kasih karena sudah menjadi
-pribadi yang baik.
-
 Tetaplah menjadi dirimu sendiri,
 karena itulah yang membuatmu istimewa.
 
 Semoga hari ini dipenuhi
-senyum,
-tawa,
+senyum,tawa,
 dan orang-orang yang menyayangimu.
 
 Happy Birthday ❤️`;
