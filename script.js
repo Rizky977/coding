@@ -39,17 +39,13 @@ const message =
 
 `Selamat ulang tahun Titi🌷
 
-Semoga di usiamu yang baru,
+Semoga di usiamu yang sekarang,
 kamu selalu diberikan kesehatan,
 kebahagiaan,
 dan semua hal baik yang pantas kamu dapatkan.
 
 Tetaplah menjadi dirimu sendiri,
 karena itulah yang membuatmu istimewa.
-
-Semoga hari ini dipenuhi
-senyum,tawa,
-dan orang-orang yang menyayangimu.
 
 Happy Birthday ❤️`;
 
